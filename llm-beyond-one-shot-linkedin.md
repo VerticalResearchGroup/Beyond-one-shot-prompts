@@ -1,4 +1,4 @@
-# Most people still use LLMs like a smart Google. The research says that's leaving 90% on the table.
+# The Gap Between a Prompt and a System: Notes From 36 LLM Papers
 
 *An accessible tour of the last five years of LLM research, through 36 papers. For engineers, product managers, and anyone who uses ChatGPT, Claude, or Gemini for real work.*
 
